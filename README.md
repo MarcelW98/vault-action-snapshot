@@ -28,3 +28,4 @@ docker build . \
     -t vault-action-exampleapp
 ```
 # vault-action-snapshot
+# vault-action-snapshot
